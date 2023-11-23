@@ -270,10 +270,7 @@
 
 .u-section-2 .embed-responsive-1 {
   position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
+
 }
 
 .u-section-2 .u-layout-cell-2 {
@@ -290,10 +287,7 @@
 
 .u-section-2 .embed-responsive-2 {
   position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
+
 }
 
 @media (max-width: 1199px) {
